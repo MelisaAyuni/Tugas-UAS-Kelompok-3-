@@ -1,0 +1,19 @@
+.name{
+    background-color: rgb(243, 241, 237);
+    box-shadow: 0 0 60px ivory;
+    text-shadow: 0px 0px 6px rgb(160, 158, 158);
+}
+
+.figure{
+    display: flex;
+    justify-content: center;
+    background: radial-gradient(circle, azure, silver, grey );
+}
+
+
+
+
+
+h1{
+    text-align: center;
+}
